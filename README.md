@@ -1,5 +1,9 @@
 
 MNIST Image Processing Tool
+
+
+
+
 Introduction
 Welcome to the MNIST Image Processing Tool! This tool is designed to help you easily download and process specific JPEG images from the MNIST dataset, which are 28x28 pixels in size. In addition, we've included an extra file called "call.py" that allows you to send in multiple images for processing, including entire folders!
 
@@ -21,6 +25,7 @@ Ensure you have Python installed on your machine.
 Open a terminal or command prompt and navigate to the directory where "call.py" is located.
 
 Run the script by entering the following command:
+
 
 python call.py path_to_images
 Replace path_to_images with the path to the folder containing the images you want to process.
